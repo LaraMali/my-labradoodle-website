@@ -1,6 +1,5 @@
 # my-labradoodle-website
 <h1>Dit is een titel</h1>
 
-### Subtitel
-
+### Dit is een subtitel
 Dit is normale tekst
